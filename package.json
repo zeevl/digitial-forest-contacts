@@ -1,0 +1,17 @@
+{
+  "name": "dfcontacts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dfcontacts.coffee",
+  "dependencies": {
+    "cli": "~0.4.5",
+    "request": "~2.33.0",
+    "csv": "~0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

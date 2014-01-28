@@ -1,0 +1,11 @@
+node_modules
+temp
+.tmp
+dist
+.sass-cache
+bower_components/
+package
+.DS_Store
+*.sublime-workspace
+.csv
+.js
