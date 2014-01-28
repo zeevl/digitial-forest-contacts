@@ -7,8 +7,6 @@ pwd = process.argv[2]
 
 username = 'ross'
 pwd = 'Lakers1!'
-# username = 'steve'
-# pwd = 'Lakers#1'
 
 contacts = []
 
